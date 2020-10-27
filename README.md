@@ -13,6 +13,8 @@ The "src" folder contains the core functionality of this JavaFX GUI form app. Wh
 
 The user interface contains two sets of labels/text boxes; one for entering the amount to be converted and the other to show the result, a drop-down menu (combo box) to allow the user to select the currency to which they wish to convert, and buttons to make the conversion, clear the amount in the amount text box, and to allow the user to export all the currency data to a tab delimited file.
 
+A warning displays if the user enters an invalid amount for the currency via a dialog box and the results text box. The dialog box must be closed and the text box cleared before proceeding. Only valid numbers are accepted for the conversions.
+
 Proof of test cases can be found in the corresponding Word document.
 
 This app was developed with JetBrains IntelliJ IDEA (various versions) and ultilizes the JavaFX Library set (various versions).
