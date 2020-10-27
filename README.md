@@ -2,6 +2,7 @@
 A JFX GUI form app to process currency conversions.
 
 Disclaimer: This app does NOT have up-to-date currency values for the conversions. The values outlined in the corresponding Excel document were sampled from an online source within the 1/8/2019 - 31/08/2019 date time frame and were used for testing purposes only.
+
 Link: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/821421/exrates-monthly-0819.csv?_ga=2.78586135.2020714709.1566697421-543342572.1565882375
 
 For more accurate conversions, a different Currency URL String may be used with the CurrencySet object.
