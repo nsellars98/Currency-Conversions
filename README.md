@@ -17,7 +17,7 @@ A Currency object models each line in the Excel document and a CurrencySet objec
 
 A warning displays if the user enters an invalid amount for the currency via a dialog box and the results text box. The dialog box must be closed and the text box cleared before proceeding. Only valid numbers are accepted for the conversions.
 
-Proof of test cases can be found in the corresponding Word document.
+Proof of test cases can be found in the corresponding Word document along with screenshots showing the code when running.
 
 This app was developed with JetBrains IntelliJ IDEA (various versions) and ultilizes the JavaFX Library set (various versions).
 
